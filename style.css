@@ -95,6 +95,20 @@ main{
   font-weight: 700px;
 
 }
+
+.features{
+  margin-top: 130px;
+  gap: 100px;
+  display: flex;
+}
+.features-content .card{
+  padding: 30px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+}
+
 .facts-card-con{
   display: flex;
   justify-content: space-around;
